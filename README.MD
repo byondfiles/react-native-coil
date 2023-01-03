@@ -1,2 +1,2 @@
 # React Native Coil
-WIP
+private fork from https://github.com/ardyfeb/react-native-coil (v0.1.0)
